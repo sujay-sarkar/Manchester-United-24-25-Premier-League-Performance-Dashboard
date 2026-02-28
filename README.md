@@ -1,4 +1,4 @@
-Manchester United 2024/2025 Premier League Dashboard | Power BI
+Manchester United 2024/2025 Premier League Performance Dashboard | Power BI
 
 Project Overview
 
